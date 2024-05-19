@@ -81,6 +81,8 @@ To run the code in this repository, you need to have Python 3.x and the followin
 
 File menu from VS Code ----> Hit the open ------>  select iris_EDA_G00305450 python file from file Explorer 
 
+To run ->  iris_EDA_G00305450.py
+
 #### Built With
  Visual Studio Code ->  [VS Code](https://code.visualstudio.com/download)
 
