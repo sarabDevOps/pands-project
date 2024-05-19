@@ -1,5 +1,5 @@
 # pands-project
-## The project is made for as a part of college work - Module -> Programming and Scripting project  
+## The project is made for as a part of college work - Module -> Programming and Scripting  
 
 ### Project Overview
 #### Dataset
@@ -14,4 +14,26 @@ The approach to the analysis is as follows:
 
 4.	Histograms: Histograms are created for each numeric variable to visualize their distributions. Help in understanding the distribution and frequency of numeric variables.
 5.	Scatter Plots: Scatter plots for each pair of numeric variables are generated to observe relationships. Useful for identifying potential relationships and correlations between pairs of variables.
-6.	Correlation Heatmap: A heatmap of the correlation matrix is created to show correlations between variables. 
+6.	Correlation Heatmap: A heatmap of the correlation matrix is created to show correlations between variables.
+
+
+
+#### Directory Structure
+
+├── iris_EDA_G00305450.py
+├── output_files1/
+│   ├── summary_statistics.txt
+│   ├── sepal_length_histogram.png
+│   ├── sepal_width_histogram.png
+│   ├── petal_length_histogram.png
+│   ├── petal_width_histogram.png
+│   ├── scatter_plots.png
+├── README.md
+└── requirements.txt
+
+
+
+
+
+
+
