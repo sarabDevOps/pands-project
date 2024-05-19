@@ -20,7 +20,7 @@ The approach to the analysis is as follows:
 
 #### Directory Structure
 
-
+```
  ──> iris_EDA_G00305450.py
  ──> output_files1/
      ──> summary_statistics.txt
@@ -31,7 +31,7 @@ The approach to the analysis is as follows:
      ──> scatter_plots.png
 ──>README.md
 ──>requirements.txt
-
+```
 
 
 
