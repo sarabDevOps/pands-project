@@ -58,17 +58,17 @@ Once you have downloaded the executable file click on it and it will automatic g
 
 To run the code in this repository, you need to have Python 3.x and the following Python packages installed:
 
-ucimlrepo
++ ucimlrepo
 
-pandas
++ pandas
 
-seaborn
++ seaborn
 
-matplotlib
++ matplotlib
 
-You can install the required packages using pip:
++ You can install the required packages using pip:
 
-pip install ucimlrepo pandas seaborn matplotlib
++ pip install ucimlrepo pandas seaborn matplotlib
 
 
 
