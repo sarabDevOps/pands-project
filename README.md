@@ -2,6 +2,11 @@
 ## The project is made for as a part of college work - Module -> Programming and Scripting  
 
 ### Project Overview
+
+#### Iris Dataset Exploratory Data Analysis (EDA)
+This repository contains Python code for performing Exploratory Data Analysis (EDA) on the Iris dataset. The analysis includes generating summary statistics, creating histograms, scatter plots, and a correlation heatmap for the numeric variables.
+
+
 #### Dataset
 The UCI Machine Learning Repository provides 150 samples of iris flowers with four features: sepal length, sepal width, petal length, and petal width. These samples make up the Iris dataset. One of the three species—Iris setosa, Iris versicolor, or Iris virginica—represents each sample.
 
