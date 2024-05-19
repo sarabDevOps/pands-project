@@ -56,6 +56,21 @@ VS Code . You can download here [VS Code](https://code.visualstudio.com/download
 #### Installing
 Once you have downloaded the executable file click on it and it will automatic guide you for installation.
 
+To run the code in this repository, you need to have Python 3.x and the following Python packages installed:
+
+ucimlrepo
+
+pandas
+
+seaborn
+
+matplotlib
+
+You can install the required packages using pip:
+
+pip install ucimlrepo pandas seaborn matplotlib
+
+
 
 #### Deployment
 
