@@ -46,7 +46,7 @@ The approach to the analysis is as follows:
 #### Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
-Download and extract the zip folder here [pands-project](https://github.com/sarabDevOps/RacketProject/archive/master.zip)
+Download and extract the zip folder here [pands-project](https://github.com/sarabDevOps/pands-project/archive/refs/heads/main.zip)
 
 
 
