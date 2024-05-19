@@ -20,7 +20,6 @@ The approach to the analysis is as follows:
 
 #### Directory Structure
 '''bash
-
 ├── iris_EDA_G00305450.py
 ├── output_files1/
 │   ├── summary_statistics.txt
@@ -30,9 +29,7 @@ The approach to the analysis is as follows:
 │   ├── petal_width_histogram.png
 │   ├── scatter_plots.png
 ├── README.md
-└── requirements.txt
-
-'''
+└── requirements.txt '''
 
 
 
