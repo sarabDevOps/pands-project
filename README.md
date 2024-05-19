@@ -48,6 +48,45 @@ The approach to the analysis is as follows:
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 Download and extract the zip folder here [pands-project](https://github.com/sarabDevOps/pands-project/archive/refs/heads/main.zip)
 
+#### Prerequisites
+VS Code . You can download here [VS Code](https://code.visualstudio.com/download)
+
+
+
+#### Installing
+Once you have downloaded the executable file click on it and it will automatic guide you for installation.
+
+
+#### Deployment
+
+File menu from VS Code ----> Hit the open ------>  select iris_EDA_G00305450 python file from file Explorer 
+
+#### Built With
+ [VS Code](https://code.visualstudio.com/download)
+
+
+#### Versioning
+
+Version 1
+
+
+#### Authors
+
+[SarabDevOps](https://github.com/sarabDevOps)
+
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/sarabDevOps/RacketProject/blob/main/LICENSE) file for details
+
+
+
+
+
+
+
+
 
 
 
