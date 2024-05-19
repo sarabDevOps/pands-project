@@ -19,6 +19,7 @@ The approach to the analysis is as follows:
 
 
 #### Directory Structure
+'''bash
 
 ├── iris_EDA_G00305450.py
 ├── output_files1/
@@ -31,7 +32,7 @@ The approach to the analysis is as follows:
 ├── README.md
 └── requirements.txt
 
-
+'''
 
 
 
