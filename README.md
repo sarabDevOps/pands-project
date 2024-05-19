@@ -20,18 +20,18 @@ The approach to the analysis is as follows:
 
 #### Directory Structure
 
-""" bash
-├── iris_EDA_G00305450.py
-├── output_files1/
-│   ├── summary_statistics.txt
-│   ├── sepal_length_histogram.png
-│   ├── sepal_width_histogram.png
-│   ├── petal_length_histogram.png
-│   ├── petal_width_histogram.png
-│   ├── scatter_plots.png
-├── README.md
-└── requirements.txt
-"""
+
+ ──> iris_EDA_G00305450.py
+ ──> output_files1/
+     ──> summary_statistics.txt
+     ──> sepal_length_histogram.png
+     ──> sepal_width_histogram.png
+     ──> petal_length_histogram.png
+     ──> petal_width_histogram.png
+     ──> scatter_plots.png
+──>README.md
+──>requirements.txt
+
 
 
 
