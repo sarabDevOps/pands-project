@@ -62,7 +62,7 @@ Once you have downloaded the executable file click on it and it will automatic g
 File menu from VS Code ----> Hit the open ------>  select iris_EDA_G00305450 python file from file Explorer 
 
 #### Built With
- [VS Code](https://code.visualstudio.com/download)
+ Visual Studio Code ->  [VS Code](https://code.visualstudio.com/download)
 
 
 #### Versioning
