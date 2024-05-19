@@ -37,10 +37,10 @@ The approach to the analysis is as follows:
  Output_files1/: Directory where the output files (summary statistics, histograms, scatter plots) are saved.***
 
  #### Results
-Summary Statistics: Stored in output_files1/summary_statistics.txt.
-Histograms: Stored as PNG files in output_files1/.
-Scatter Plots: Stored as scatter_plots.png in output_files1/.
-Correlation Heatmap: Stored as correlation_matrix.png in output_files1/.
+1. Summary Statistics: Stored in output_files1/summary_statistics.txt.
+2. Histograms: Stored as PNG files in output_files1/.
+3. Scatter Plots: Stored as scatter_plots.png in output_files1/.
+4. Correlation Heatmap: Stored as correlation_matrix.png in output_files1/.
 
 
 
