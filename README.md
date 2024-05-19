@@ -33,7 +33,7 @@ The approach to the analysis is as follows:
 ──>requirements.txt
 ```
 
-*** iris_EDA_G00305450.py: Main script that performs the EDA.
+***iris_EDA_G00305450.py: Main script that performs the EDA.
  output_files1/: Directory where the output files (summary statistics, histograms, scatter plots) are saved.***
 
 
