@@ -83,7 +83,7 @@ File menu from VS Code ----> Hit the open ------>  select iris_EDA_G00305450 pyt
 
 To run ->  iris_EDA_G00305450.py
 
-Sometimes it shows  ERROR ` iris = fetch_ucirepo(id=53)
+Sometimes code shows this ERROR ` iris = fetch_ucirepo(id=53)
            ^^^^^^^^^^^^^^^^^^^^`  has `ConnectionError: Error connecting to server` , Just run it again if you get this error.
 
       
